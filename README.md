@@ -1,7 +1,7 @@
 # Lab 4: Extracción de la envolvente de la sEMG simulada
 
-Universidad Nacional Mayor de San Marcos, Facultad de Ingeniería Electrónica y Eléctrica
-Escuela Profesional de Ingeniería Biomédica, Instrumentación Biomédica I
+Universidad Nacional Mayor de San Marcos   Facultad de Ingeniería Electrónica y Eléctrica
+Escuela Profesional de Ingeniería Biomédica   Instrumentación Biomédica I
 Docente: Maria Elisia Armas Alvarado | Grupo: Sábado 12-2 pm
 
 ## Integrantes
